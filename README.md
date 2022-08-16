@@ -20,3 +20,7 @@ git push -u origin main
   - hop-client 0.4.0
   - ligo.skymap 0.1.15
   - pip 19.3.1
+
+## Useful Resources
+1. [A guide to getting SCiMMA credentials and downloading the Hop Client](https://drive.google.com/file/d/1CdYiE9EpbbXS2DZbahZ1ZcLavAeyF9Rg/view?usp=sharing) 
+2. [A guide to downloading and streaming data from ALLWISE AGN Catalog](https://drive.google.com/file/d/1IcjwhWD9gfjtmsv7ZpX3oXt1vXg-3Oou/view?usp=sharing)
